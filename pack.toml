@@ -1,0 +1,13 @@
+name = "DeSpend Resources"
+author = "despenser08, clams92"
+version = "0.0.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dfe3568fd0356062ba48e02ebf81627be5acb2fbbf0c77af75fb4e572730df33"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.21.1"
